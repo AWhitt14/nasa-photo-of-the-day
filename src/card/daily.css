@@ -1,0 +1,10 @@
+.imgBox {
+    margin:10%;
+    margin-top:1%;
+    padding: 2%;
+    border: 3px solid black;
+}
+
+.date {
+    display: inline;
+}
